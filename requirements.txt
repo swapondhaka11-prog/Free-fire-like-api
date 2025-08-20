@@ -1,6 +1,4 @@
 aiogram==2.25.1
-aiohttp==3.8.6
-requests
-python-dotenv
-pytz
-wheel
+requests==2.32.3
+python-dotenv==1.0.1
+aiohttp==3.9.5
